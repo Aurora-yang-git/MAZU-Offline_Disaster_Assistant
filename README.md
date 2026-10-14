@@ -52,8 +52,8 @@ A React Native + Expo application that runs Gemma 3n entirely on-device for life
 
 ```bash
 # Clone the repository
-git clone [repository-url]
-cd gemma-3n
+git clone https://github.com/Aurora-yang-git/MAZU-Offline_Disaster_Assistant.git
+cd MAZU-Offline_Disaster_Assistant
 
 # Install dependencies
 npm install
@@ -69,8 +69,8 @@ The Gemma 3n model file (~3GB) must be deployed separately from the app:
 #### Option 1: Automatic Deployment (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mazu.git
-cd mazu
+git clone https://github.com/Aurora-yang-git/MAZU-Offline_Disaster_Assistant.git
+cd MAZU-Offline_Disaster_Assistant
 
 # Run the deployment script
 ./scripts/deploy-model.sh
